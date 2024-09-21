@@ -7,8 +7,6 @@
     display: grid;
     grid-template-columns: auto;
     grid-template-rows: repeat(3, auto);
-    justify-content: center;
-    justify-items: center;
 }
 
 h1{
